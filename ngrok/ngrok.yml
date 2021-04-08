@@ -1,8 +1,0 @@
-authtoken: HIDDEN TOKEN
-tunnels:
-  first:
-    addr: 5002
-    proto: http    
-  second:
-    addr: 5005
-    proto: http
