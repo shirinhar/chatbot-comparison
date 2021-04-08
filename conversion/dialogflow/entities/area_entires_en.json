@@ -1,0 +1,38 @@
+[
+  {
+    "value": "west",
+    "synonyms": [
+      "west"
+    ]
+  },
+  {
+    "value": "north",
+    "synonyms": [
+      "north"
+    ]
+  },
+  {
+    "value": "south",
+    "synonyms": [
+      "south"
+    ]
+  },
+  {
+    "value": "dontcare",
+    "synonyms": [
+      "dontcare"
+    ]
+  },
+  {
+    "value": "centre",
+    "synonyms": [
+      "centre"
+    ]
+  },
+  {
+    "value": "east",
+    "synonyms": [
+      "east"
+    ]
+  }
+]

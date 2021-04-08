@@ -1,0 +1,26 @@
+[
+  {
+    "value": "expensive",
+    "synonyms": [
+      "expensive"
+    ]
+  },
+  {
+    "value": "cheap",
+    "synonyms": [
+      "cheap"
+    ]
+  },
+  {
+    "value": "dontcare",
+    "synonyms": [
+      "dontcare"
+    ]
+  },
+  {
+    "value": "moderate",
+    "synonyms": [
+      "moderate"
+    ]
+  }
+]
