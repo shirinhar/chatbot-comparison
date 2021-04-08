@@ -1,0 +1,51 @@
+version: "2.0"
+stories:
+- story: happy path 1 (/var/folders/48/m2hm114n2_x_kmm6y1zn50c40000gn/T/tmp4iid3rq5/86d08f84571b419583e4bdf37e3b36bd_test_stories.yml)
+  steps:
+  - intent: greet  # predicted: affirm: hello there!
+  - action: utter_greet  # predicted: utter_request
+  - intent: mood_great  # predicted: affirm: amazing
+  - action: utter_happy  # predicted: utter_request
+- story: happy path 2 (/var/folders/48/m2hm114n2_x_kmm6y1zn50c40000gn/T/tmp4iid3rq5/86d08f84571b419583e4bdf37e3b36bd_test_stories.yml)
+  steps:
+  - intent: greet  # predicted: affirm: hello there!
+  - action: utter_greet  # predicted: utter_request
+  - intent: mood_great  # predicted: affirm: amazing
+  - action: utter_happy  # predicted: utter_request
+  - intent: goodbye  # predicted: bye: bye-bye!
+  - action: utter_goodbye  # predicted: utter_request
+- story: sad path 1 (/var/folders/48/m2hm114n2_x_kmm6y1zn50c40000gn/T/tmp4iid3rq5/86d08f84571b419583e4bdf37e3b36bd_test_stories.yml)
+  steps:
+  - intent: greet  # predicted: hello: hello
+  - action: utter_greet  # predicted: utter_request
+  - intent: mood_unhappy  # predicted: inform: not good
+  - action: utter_cheer_up  # predicted: utter_request
+  - action: utter_did_that_help  # predicted: action_listen
+  - intent: affirm
+  - action: utter_happy  # predicted: utter_request
+- story: sad path 2 (/var/folders/48/m2hm114n2_x_kmm6y1zn50c40000gn/T/tmp4iid3rq5/86d08f84571b419583e4bdf37e3b36bd_test_stories.yml)
+  steps:
+  - intent: greet  # predicted: hello: hello
+  - action: utter_greet  # predicted: utter_request
+  - intent: mood_unhappy  # predicted: inform: not good
+  - action: utter_cheer_up  # predicted: utter_request
+  - action: utter_did_that_help  # predicted: action_listen
+  - intent: deny  # predicted: request: not really
+  - action: utter_goodbye  # predicted: utter_request
+- story: sad path 3 (/var/folders/48/m2hm114n2_x_kmm6y1zn50c40000gn/T/tmp4iid3rq5/86d08f84571b419583e4bdf37e3b36bd_test_stories.yml)
+  steps:
+  - intent: greet  # predicted: hello: hi
+  - action: utter_greet  # predicted: utter_request
+  - intent: mood_unhappy  # predicted: ack: very terrible
+  - action: utter_cheer_up  # predicted: utter_request
+  - action: utter_did_that_help  # predicted: action_listen
+  - intent: deny  # predicted: negate: no
+  - action: utter_goodbye  # predicted: utter_request
+- story: say goodbye (/var/folders/48/m2hm114n2_x_kmm6y1zn50c40000gn/T/tmp4iid3rq5/86d08f84571b419583e4bdf37e3b36bd_test_stories.yml)
+  steps:
+  - intent: goodbye  # predicted: bye: bye-bye!
+  - action: utter_goodbye  # predicted: utter_request
+- story: bot challenge (/var/folders/48/m2hm114n2_x_kmm6y1zn50c40000gn/T/tmp4iid3rq5/86d08f84571b419583e4bdf37e3b36bd_test_stories.yml)
+  steps:
+  - intent: bot_challenge  # predicted: reqalts: are you a bot?
+  - action: utter_iamabot  # predicted: utter_request

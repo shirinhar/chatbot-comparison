@@ -1,0 +1,9 @@
+{
+  "id": "d9744f36-21da-452b-85f9-e317537a8b4a",
+  "name": "area",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

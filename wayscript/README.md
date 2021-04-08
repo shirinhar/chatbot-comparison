@@ -1,0 +1,2 @@
+# WayScript
+Wayscript is an low-code development platform for backend development. This project uses the backend developed by WayScript as a quick and accesssible way to access the projects database (seen in the database folder). As WayScript is hosted on an online platform the code cannot be stored on GitHub, however the entire WayScript system for this project can be accessed through this link: https://wayscript.com/script/1rXJOFHY

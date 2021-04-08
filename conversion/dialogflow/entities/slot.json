@@ -1,0 +1,9 @@
+{
+  "id": "0e7d5dc8-92a4-42b1-b397-fcd5796a4949",
+  "name": "slot",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

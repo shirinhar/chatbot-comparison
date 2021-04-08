@@ -1,0 +1,56 @@
+[
+  {
+    "value": "food",
+    "synonyms": [
+      "food"
+    ]
+  },
+  {
+    "value": "signature",
+    "synonyms": [
+      "signature"
+    ]
+  },
+  {
+    "value": ": ",
+    "synonyms": [
+      ": "
+    ]
+  },
+  {
+    "value": "pricerange",
+    "synonyms": [
+      "pricerange"
+    ]
+  },
+  {
+    "value": "postcode",
+    "synonyms": [
+      "postcode"
+    ]
+  },
+  {
+    "value": "phone",
+    "synonyms": [
+      "phone"
+    ]
+  },
+  {
+    "value": "area",
+    "synonyms": [
+      "area"
+    ]
+  },
+  {
+    "value": "name",
+    "synonyms": [
+      "name"
+    ]
+  },
+  {
+    "value": "addr",
+    "synonyms": [
+      "addr"
+    ]
+  }
+]

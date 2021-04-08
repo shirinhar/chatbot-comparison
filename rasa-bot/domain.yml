@@ -1,0 +1,105 @@
+version: '2.0'
+config:
+  store_entities_as_slots: true
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- affirm:
+    use_entities: true
+- inform:
+    use_entities: true
+- request:
+    use_entities: true
+- thankyou:
+    use_entities: true
+- negate:
+    use_entities: true
+- reqalts:
+    use_entities: true
+- hello:
+    use_entities: true
+- bye:
+    use_entities: true
+- confirm:
+    use_entities: true
+- deny:
+    use_entities: true
+- ack:
+    use_entities: true
+- repeat:
+    use_entities: true
+- restart:
+    use_entities: true
+- affirm|request:
+    use_entities: true
+- ack|request:
+    use_entities: true
+- 'null':
+    use_entities: true
+- negate|reqalts:
+    use_entities: true
+- thankyou|request:
+    use_entities: true
+entities:
+- area
+- pricerange
+- name
+- slot
+- this
+- food
+- task
+- type
+slots:
+  area:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  food:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  name:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  pricerange:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  slot:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  this:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+responses:
+  utter_canthelp:
+  - text: Sorry, I couldn't find anything with those specifications. Could you try something else?
+  utter_welcomemsg:
+  - text: Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?
+  utter_reqmore:
+  - text: Could you give some more information.
+  utter_request:
+  - text: Could you give me some information
+  utter_offer:
+  - text: This is what I found
+  utter_repeat:
+  - text: Could you say that again
+  utter_select:
+  - text: Would you like to increase your specifications?
+  utter_expl-conf:
+  - text: Is the information given corrent? price = {pricerange}, cuisine={food} and area={area}
+actions:
+- action_suggest
+- action_request
+forms: {}
+e2e_actions: []

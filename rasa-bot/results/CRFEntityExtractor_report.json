@@ -1,0 +1,55 @@
+{
+  "pricerange": {
+    "precision": 0.7125,
+    "recall": 1.0,
+    "f1-score": 0.832116788321168,
+    "support": 114,
+    "confused_with": {}
+  },
+  "name": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2,
+    "confused_with": {}
+  },
+  "food": {
+    "precision": 0.9285714285714286,
+    "recall": 0.978494623655914,
+    "f1-score": 0.9528795811518325,
+    "support": 372,
+    "confused_with": {}
+  },
+  "area": {
+    "precision": 0.7692307692307693,
+    "recall": 0.35294117647058826,
+    "f1-score": 0.48387096774193555,
+    "support": 85,
+    "confused_with": {}
+  },
+  "slot": {
+    "precision": 0.9448818897637795,
+    "recall": 0.9090909090909091,
+    "f1-score": 0.9266409266409267,
+    "support": 132,
+    "confused_with": {}
+  },
+  "micro avg": {
+    "precision": 0.875,
+    "recall": 0.8936170212765957,
+    "f1-score": 0.8842105263157894,
+    "support": 705
+  },
+  "macro avg": {
+    "precision": 0.8710368175131954,
+    "recall": 0.8481053418434822,
+    "f1-score": 0.8391016527711725,
+    "support": 705
+  },
+  "weighted avg": {
+    "precision": 0.877677441506391,
+    "recall": 0.8936170212765957,
+    "f1-score": 0.8720257484138464,
+    "support": 705
+  }
+}

@@ -1,0 +1,2720 @@
+[
+  {
+    "text": "uh yes can i find an expensive restaurant that serves italian food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 21,
+        "end": 30,
+        "confidence_entity": 0.608556417844981,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 54,
+        "end": 61,
+        "confidence_entity": 0.704508456260242,
+        "value": "italian",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "okay and they serve portuguese food correct",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 20,
+        "end": 30,
+        "confidence_entity": 0.8640906358323408,
+        "value": "portuguese",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "yes im looking for an expensive restaurant and it should serve",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 22,
+        "end": 31,
+        "confidence_entity": 0.6084796071850458,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "yes hi im looking for a restaurant in the north",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "area",
+        "start": 42,
+        "end": 47,
+        "confidence_entity": 0.5483637186260277,
+        "value": "north",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "yes i want the phone number",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "slot",
+        "start": 15,
+        "end": 20,
+        "confidence_entity": 0.9099784161024701,
+        "value": "phone",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "yes good afternoon im looking for a restaurant in the north",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "area",
+        "start": 54,
+        "end": 59,
+        "confidence_entity": 0.5483637186260277,
+        "value": "north",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "ah yes can i get a restaurant that serves french food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 42,
+        "end": 48,
+        "confidence_entity": 0.7592561134610638,
+        "value": "french",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "yes can i have an expensive restaurant",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 18,
+        "end": 27,
+        "confidence_entity": 0.6083004425717496,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "yes that serves corsica food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 16,
+        "end": 23,
+        "confidence_entity": 0.7753749027573538,
+        "value": "corsica",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "yes id like to find a cheap restaurant in the north part of town",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 22,
+        "end": 27,
+        "confidence_entity": 0.6548985566860642,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "yes id like to find a cheap",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 22,
+        "end": 27,
+        "confidence_entity": 0.7096262799417006,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "ah yes im looking for persian food though",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 22,
+        "end": 29,
+        "confidence_entity": 0.7430253296327676,
+        "value": "persian",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "yes in the cheap price range",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 11,
+        "end": 16,
+        "confidence_entity": 0.7048853710805794,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "yes do you have one with chinese",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 25,
+        "end": 32,
+        "confidence_entity": 0.5986416562370639,
+        "value": "chinese",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "ah yes im looking for persian food and i dont care about the pri",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 22,
+        "end": 29,
+        "confidence_entity": 0.7430252998610389,
+        "value": "persian",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "ah yes that serves french food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 19,
+        "end": 25,
+        "confidence_entity": 0.7592561119490698,
+        "value": "french",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "yes an expensive restaurant serving african food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 7,
+        "end": 16,
+        "confidence_entity": 0.6084303672580931,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 36,
+        "end": 43,
+        "confidence_entity": 0.683624234359731,
+        "value": "african",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "restaurant in south part of town serves",
+    "entities": [
+      {
+        "start": 14,
+        "end": 19,
+        "value": "south",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for a restaurant in the south part of town",
+    "entities": [
+      {
+        "start": 35,
+        "end": 40,
+        "value": "south",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "in the north part of town",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "value": "north",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for a restaurant in the north part of town and it should serve cata",
+    "entities": [
+      {
+        "start": 35,
+        "end": 40,
+        "value": "north",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "west part of town creative food",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "creative",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "area",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.8423139934045676,
+        "value": "west",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 18,
+        "end": 26,
+        "confidence_entity": 0.9459725358227028,
+        "value": "creative",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for a moderately priced restaurant in the north",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "area",
+        "start": 53,
+        "end": 58,
+        "confidence_entity": 0.5483637186239219,
+        "value": "north",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "north part of town serving canapes food",
+    "entities": [
+      {
+        "start": 27,
+        "end": 34,
+        "value": "canapes",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "area",
+        "start": 0,
+        "end": 5,
+        "confidence_entity": 0.872157017664989,
+        "value": "north",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 27,
+        "end": 34,
+        "confidence_entity": 0.9460639338966775,
+        "value": "canapes",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for a restaurant in the west part",
+    "entities": [
+      {
+        "start": 35,
+        "end": 39,
+        "value": "west",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "find restaurant in north part of town",
+    "entities": [
+      {
+        "start": 19,
+        "end": 24,
+        "value": "north",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i want an expensive restaurant serving european food",
+    "entities": [
+      {
+        "start": 39,
+        "end": 47,
+        "value": "european",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 10,
+        "end": 19,
+        "confidence_entity": 0.6085119401157041,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 39,
+        "end": 47,
+        "confidence_entity": 0.8267410827815974,
+        "value": "european",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "need one in the west part of town",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "value": "west",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "what about vietnamese",
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "value": "vietnamese",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "chinese food im looking for sea food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 0,
+        "end": 7,
+        "confidence_entity": 0.9456559466591443,
+        "value": "chinese",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "moderate price in south",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "moderate",
+        "entity": "pricerange"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 0,
+        "end": 8,
+        "confidence_entity": 0.7923865987163191,
+        "value": "moderate",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "area",
+        "start": 18,
+        "end": 23,
+        "confidence_entity": 0.5475517205263266,
+        "value": "south",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "i need an expensive restaurant serving british food",
+    "entities": [
+      {
+        "start": 39,
+        "end": 46,
+        "value": "british",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 10,
+        "end": 19,
+        "confidence_entity": 0.6084540518869184,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 39,
+        "end": 46,
+        "confidence_entity": 0.8642969706100975,
+        "value": "british",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "find a restaurant in the west part of town",
+    "entities": [
+      {
+        "start": 25,
+        "end": 29,
+        "value": "west",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for a cheap restaurant that sells welsh",
+    "entities": [
+      {
+        "start": 45,
+        "end": 50,
+        "value": "welsh",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 17,
+        "end": 22,
+        "confidence_entity": 0.655043582282121,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 45,
+        "end": 50,
+        "confidence_entity": 0.9837366556465034,
+        "value": "welsh",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for a cheap restaurant serving russian food",
+    "entities": [
+      {
+        "start": 42,
+        "end": 49,
+        "value": "russian",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 17,
+        "end": 22,
+        "confidence_entity": 0.6549906733211234,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 42,
+        "end": 49,
+        "confidence_entity": 0.9137981546143049,
+        "value": "russian",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for a cheap restaurant that serves belgian food",
+    "entities": [
+      {
+        "start": 46,
+        "end": 53,
+        "value": "belgian",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 17,
+        "end": 22,
+        "confidence_entity": 0.6550435822905438,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 46,
+        "end": 53,
+        "confidence_entity": 0.9099674493673717,
+        "value": "belgian",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "i want to find a restaurant in the south part of town",
+    "entities": [
+      {
+        "start": 35,
+        "end": 40,
+        "value": "south",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "restaurant in west part of town",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "value": "west",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "the west",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "value": "west",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "can i find a restaurant with gastropub food",
+    "entities": [
+      {
+        "start": 29,
+        "end": 38,
+        "value": "gastropub",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "in the east part of the town",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "value": "east",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "okay looking for a cheap restaurant serving caribbean food",
+    "entities": [
+      {
+        "start": 44,
+        "end": 53,
+        "value": "caribbean",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 19,
+        "end": 24,
+        "confidence_entity": 0.6549906731706988,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 44,
+        "end": 53,
+        "confidence_entity": 0.9255468438975227,
+        "value": "caribbean",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "i need a cheap restaurant that serves international food",
+    "entities": [
+      {
+        "start": 38,
+        "end": 51,
+        "value": "international",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 9,
+        "end": 14,
+        "confidence_entity": 0.6549635394431143,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 38,
+        "end": 51,
+        "confidence_entity": 0.8720999314949184,
+        "value": "international",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for an moderately restaurant and it should be in the south part of town",
+    "entities": [
+      {
+        "start": 64,
+        "end": 69,
+        "value": "south",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for an expensive restaurant that serves european",
+    "entities": [
+      {
+        "start": 51,
+        "end": 59,
+        "value": "european",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 18,
+        "end": 27,
+        "confidence_entity": 0.6085818935449671,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 51,
+        "end": 59,
+        "confidence_entity": 0.9055526130591137,
+        "value": "european",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for a cheap restaurant it should serve japanese food",
+    "entities": [
+      {
+        "start": 50,
+        "end": 58,
+        "value": "japanese",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 17,
+        "end": 22,
+        "confidence_entity": 0.654990706411533,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 50,
+        "end": 58,
+        "confidence_entity": 0.9811803832812714,
+        "value": "japanese",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "i need an expensive restaurant that serves afghan food",
+    "entities": [
+      {
+        "start": 43,
+        "end": 49,
+        "value": "afghan",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 10,
+        "end": 19,
+        "confidence_entity": 0.6085564121961312,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 43,
+        "end": 49,
+        "confidence_entity": 0.8779163809305696,
+        "value": "afghan",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "id like a cheap restaurant that serves steakhouse",
+    "entities": [
+      {
+        "start": 39,
+        "end": 49,
+        "value": "steakhouse",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.6550486829678737,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 39,
+        "end": 49,
+        "confidence_entity": 0.9452753876200206,
+        "value": "steakhouse",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "uh find a restaurant in the west part of town and",
+    "entities": [
+      {
+        "start": 28,
+        "end": 32,
+        "value": "west",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "restaurant west part of town",
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "value": "west",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "yea id like a restaurant in the west part of town thats",
+    "entities": [
+      {
+        "start": 32,
+        "end": 36,
+        "value": "west",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "what about international type food",
+    "entities": [
+      {
+        "start": 11,
+        "end": 24,
+        "value": "international",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for a restaurant in the west part of town and it sh",
+    "entities": [
+      {
+        "start": 35,
+        "end": 39,
+        "value": "west",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for a restaurant in the east part of town",
+    "entities": [
+      {
+        "start": 35,
+        "end": 39,
+        "value": "east",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for a cheap restaurant serving kosher food",
+    "entities": [
+      {
+        "start": 42,
+        "end": 48,
+        "value": "kosher",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 17,
+        "end": 22,
+        "confidence_entity": 0.6549906725920003,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 42,
+        "end": 48,
+        "confidence_entity": 0.9703244549393719,
+        "value": "kosher",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for a restaurant in the west part of town",
+    "entities": [
+      {
+        "start": 35,
+        "end": 39,
+        "value": "west",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for an expensive restaurant that serves english food",
+    "entities": [
+      {
+        "start": 51,
+        "end": 58,
+        "value": "english",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 18,
+        "end": 27,
+        "confidence_entity": 0.6085818935446501,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 51,
+        "end": 58,
+        "confidence_entity": 0.8201094956522433,
+        "value": "english",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "in the south",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "value": "south",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "in the north part",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "value": "north",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for a restaurant in the south part of town that serves",
+    "entities": [
+      {
+        "start": 35,
+        "end": 40,
+        "value": "south",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "what about mediterranean food",
+    "entities": [
+      {
+        "start": 11,
+        "end": 24,
+        "value": "mediterranean",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "in the east part of town",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "value": "east",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "uh the south",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "value": "south",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for a restaurant that serves indian food",
+    "entities": [
+      {
+        "start": 40,
+        "end": 46,
+        "value": "indian",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for a restaurant in the south part of town serving",
+    "entities": [
+      {
+        "start": 35,
+        "end": 40,
+        "value": "south",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for a restaurant in the south",
+    "entities": [
+      {
+        "start": 35,
+        "end": 40,
+        "value": "south",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for a cheap restaurant that serves austrian food",
+    "entities": [
+      {
+        "start": 46,
+        "end": 54,
+        "value": "austrian",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 17,
+        "end": 22,
+        "confidence_entity": 0.655043582290538,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 46,
+        "end": 54,
+        "confidence_entity": 0.9780062154216705,
+        "value": "austrian",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "cheap restaurant serving asian oriental",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 0,
+        "end": 5,
+        "confidence_entity": 0.7595016675444475,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "expensive restaurant serving kosher food",
+    "entities": [
+      {
+        "start": 29,
+        "end": 35,
+        "value": "kosher",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.7765947512510916,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 29,
+        "end": 35,
+        "confidence_entity": 0.9703244554558804,
+        "value": "kosher",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for a cheap restaurant that serves mediterranean food",
+    "entities": [
+      {
+        "start": 46,
+        "end": 59,
+        "value": "mediterranean",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 17,
+        "end": 22,
+        "confidence_entity": 0.6550435822905383,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 46,
+        "end": 59,
+        "confidence_entity": 0.9752564974998301,
+        "value": "mediterranean",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "cheap restaurant serving scandinavian food",
+    "entities": [
+      {
+        "start": 25,
+        "end": 37,
+        "value": "scandinavian",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 0,
+        "end": 5,
+        "confidence_entity": 0.7595016125545516,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 25,
+        "end": 37,
+        "confidence_entity": 0.5176520532775423,
+        "value": "scandinavian",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for a restaurant in the north part",
+    "entities": [
+      {
+        "start": 35,
+        "end": 40,
+        "value": "north",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "in the south part of the town",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "value": "south",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for an indian restaurant in the",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "value": "indian",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "restaurant in north part of town",
+    "entities": [
+      {
+        "start": 14,
+        "end": 19,
+        "value": "north",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for an expensive restaurant that serves basque food",
+    "entities": [
+      {
+        "start": 51,
+        "end": 57,
+        "value": "basque",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 18,
+        "end": 27,
+        "confidence_entity": 0.6085818935445947,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 51,
+        "end": 57,
+        "confidence_entity": 0.9741482503154426,
+        "value": "basque",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "can i find a expensive restaurant that serves welsh food",
+    "entities": [
+      {
+        "start": 46,
+        "end": 51,
+        "value": "welsh",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 13,
+        "end": 22,
+        "confidence_entity": 0.6815712181046354,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 46,
+        "end": 51,
+        "confidence_entity": 0.9895985218530177,
+        "value": "welsh",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "i dont care about the price range what about thai food",
+    "entities": [
+      {
+        "start": 45,
+        "end": 49,
+        "value": "thai",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "the south",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "value": "south",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for a restaurant in the north part of town and it should serve",
+    "entities": [
+      {
+        "start": 35,
+        "end": 40,
+        "value": "north",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "cheap restaurant mediterranean food",
+    "entities": [
+      {
+        "start": 17,
+        "end": 30,
+        "value": "mediterranean",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 0,
+        "end": 5,
+        "confidence_entity": 0.7594716785252408,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 17,
+        "end": 30,
+        "confidence_entity": 0.985823213689398,
+        "value": "mediterranean",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "the west part of town i want",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "value": "west",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "id like a restaurant in the north part of town that serves tur",
+    "entities": [
+      {
+        "start": 28,
+        "end": 33,
+        "value": "north",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for a cheap restaurant that serves christmas food",
+    "entities": [
+      {
+        "start": 46,
+        "end": 55,
+        "value": "christmas",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 17,
+        "end": 22,
+        "confidence_entity": 0.6550435822905631,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 46,
+        "end": 55,
+        "confidence_entity": 0.692917769843527,
+        "value": "christmas",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for a cheap restaurant that serves swedish food",
+    "entities": [
+      {
+        "start": 46,
+        "end": 53,
+        "value": "swedish",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 17,
+        "end": 22,
+        "confidence_entity": 0.6550435822905377,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 46,
+        "end": 53,
+        "confidence_entity": 0.9758752532587364,
+        "value": "swedish",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "the north part of town",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "value": "north",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "restaurant south part of town",
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "value": "south",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "restaurant in the north part of town serv",
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "value": "north",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i am looking for a moderately priced restaurant in the north",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "area",
+        "start": 55,
+        "end": 60,
+        "confidence_entity": 0.5483637186239219,
+        "value": "north",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for restaurants in the east part of town",
+    "entities": [
+      {
+        "start": 34,
+        "end": 38,
+        "value": "east",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "moderate restaurant seafood",
+    "entities": [
+      {
+        "start": 20,
+        "end": 27,
+        "value": "seafood",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 0,
+        "end": 8,
+        "confidence_entity": 0.644667693860754,
+        "value": "moderate",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 20,
+        "end": 27,
+        "confidence_entity": 0.944862185177102,
+        "value": "seafood",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for a cheap restaurant that serves chinese food",
+    "entities": [
+      {
+        "start": 46,
+        "end": 53,
+        "value": "chinese",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 17,
+        "end": 22,
+        "confidence_entity": 0.6550435822905611,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 46,
+        "end": 53,
+        "confidence_entity": 0.7128169244503555,
+        "value": "chinese",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "looking for a cheap restaurant serving portuguese food",
+    "entities": [
+      {
+        "start": 39,
+        "end": 49,
+        "value": "portuguese",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 14,
+        "end": 19,
+        "confidence_entity": 0.6549906771079725,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 39,
+        "end": 49,
+        "confidence_entity": 0.608352839135384,
+        "value": "portuguese",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "the east",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "value": "east",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for a restaurant in the south part of town that",
+    "entities": [
+      {
+        "start": 35,
+        "end": 40,
+        "value": "south",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i would like to find a restaurant in the west part of town that serves",
+    "entities": [
+      {
+        "start": 41,
+        "end": 45,
+        "value": "west",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "in the west part of town",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "value": "west",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "east part of town serving swedish food",
+    "entities": [
+      {
+        "start": 26,
+        "end": 33,
+        "value": "swedish",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "area",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.7179788791155349,
+        "value": "east",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 26,
+        "end": 33,
+        "confidence_entity": 0.9593370357254345,
+        "value": "swedish",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "restaurant in the north part of town",
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "value": "north",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "is there an expensive restaurant that serves french",
+    "entities": [
+      {
+        "start": 45,
+        "end": 51,
+        "value": "french",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 12,
+        "end": 21,
+        "confidence_entity": 0.6085564108778688,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 45,
+        "end": 51,
+        "confidence_entity": 0.7870071902879381,
+        "value": "french",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for a restaurant in the north part of town",
+    "entities": [
+      {
+        "start": 35,
+        "end": 40,
+        "value": "north",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "restaurant north part of town",
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "value": "north",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "what about turkish",
+    "entities": [
+      {
+        "start": 11,
+        "end": 18,
+        "value": "turkish",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i want to find an expensive restaurant that serves hungarian food",
+    "entities": [
+      {
+        "start": 51,
+        "end": 60,
+        "value": "hungarian",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 18,
+        "end": 27,
+        "confidence_entity": 0.6085564111499386,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 51,
+        "end": 60,
+        "confidence_entity": 0.9764197712770256,
+        "value": "hungarian",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for an expensive restaurant that serves hungarian",
+    "entities": [
+      {
+        "start": 51,
+        "end": 60,
+        "value": "hungarian",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 18,
+        "end": 27,
+        "confidence_entity": 0.6085818935447024,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 51,
+        "end": 60,
+        "confidence_entity": 0.9797488719759008,
+        "value": "hungarian",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "restaurant in the south part of town",
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "value": "south",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for a cheap restaurant that serves cuban food",
+    "entities": [
+      {
+        "start": 46,
+        "end": 51,
+        "value": "cuban",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 17,
+        "end": 22,
+        "confidence_entity": 0.6550435822905365,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 46,
+        "end": 51,
+        "confidence_entity": 0.9900389168114687,
+        "value": "cuban",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for a restaurant in the north part of town that serves",
+    "entities": [
+      {
+        "start": 35,
+        "end": 40,
+        "value": "north",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "north american restaurant expensive",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 26,
+        "end": 35,
+        "confidence_entity": 0.5458475148896427,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "looking for a restaurant in the east part of town",
+    "entities": [
+      {
+        "start": 32,
+        "end": 36,
+        "value": "east",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for an expensive restaurant with venetian food",
+    "entities": [
+      {
+        "start": 44,
+        "end": 52,
+        "value": "venetian",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 18,
+        "end": 27,
+        "confidence_entity": 0.6084795366984165,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 44,
+        "end": 52,
+        "confidence_entity": 0.7813655635327947,
+        "value": "venetian",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for a restaurant in the west part of town that serves",
+    "entities": [
+      {
+        "start": 35,
+        "end": 39,
+        "value": "west",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "a restaurant in the north part of town",
+    "entities": [
+      {
+        "start": 20,
+        "end": 25,
+        "value": "north",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im looking for an expensive restaurant that serves european food",
+    "entities": [
+      {
+        "start": 51,
+        "end": 59,
+        "value": "european",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 18,
+        "end": 27,
+        "confidence_entity": 0.6085818935449692,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 51,
+        "end": 59,
+        "confidence_entity": 0.8911864702888264,
+        "value": "european",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "i need a restaurant in the east part of town",
+    "entities": [
+      {
+        "start": 27,
+        "end": 31,
+        "value": "east",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "the south part",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "value": "south",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "restaurant in the north part of town that serves",
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "value": "north",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i need a restaurant in the west part of town that serves europ",
+    "entities": [
+      {
+        "start": 27,
+        "end": 31,
+        "value": "west",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "moderate restaurant catalan food",
+    "entities": [
+      {
+        "start": 20,
+        "end": 27,
+        "value": "catalan",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 0,
+        "end": 8,
+        "confidence_entity": 0.6446670361177154,
+        "value": "moderate",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 20,
+        "end": 27,
+        "confidence_entity": 0.9732085001235179,
+        "value": "catalan",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "im looking for a cheap restaurant that serves international",
+    "entities": [
+      {
+        "start": 46,
+        "end": 59,
+        "value": "international",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 17,
+        "end": 22,
+        "confidence_entity": 0.6550435822905458,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 46,
+        "end": 59,
+        "confidence_entity": 0.8885835395850364,
+        "value": "international",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "i need something in the east part of town that serves",
+    "entities": [
+      {
+        "start": 24,
+        "end": 28,
+        "value": "east",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "the south part of town",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "value": "south",
+        "entity": "area"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "tv_noise im looking for an expensive restaurant and it should serve tuscan food",
+    "entities": [
+      {
+        "start": 68,
+        "end": 74,
+        "value": "tuscan",
+        "entity": "food"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 27,
+        "end": 36,
+        "confidence_entity": 0.6084796071850462,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "food",
+        "start": 68,
+        "end": 74,
+        "confidence_entity": 0.994082264898431,
+        "value": "tuscan",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "and the type of food",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "value": "food",
+        "entity": "slot"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "ok how about a restaurant and phone number",
+    "entities": [
+      {
+        "start": 30,
+        "end": 35,
+        "value": "phone",
+        "entity": "slot"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "what type of food",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "value": "food",
+        "entity": "slot"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i need a special restaurant serving christmas food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 36,
+        "end": 45,
+        "confidence_entity": 0.5679921805498,
+        "value": "christmas",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "whats the type of food",
+    "entities": [
+      {
+        "start": 18,
+        "end": 22,
+        "value": "food",
+        "entity": "slot"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "kay can i have the address phone number and the area",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "slot",
+        "start": 48,
+        "end": 52,
+        "confidence_entity": 0.6187924636907401,
+        "value": "area",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "uh whats the address and the phone number",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "slot",
+        "start": 29,
+        "end": 34,
+        "confidence_entity": 0.9099540716588351,
+        "value": "phone",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "what kind of food",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "value": "food",
+        "entity": "slot"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "okay can i have the address and the phone number please",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "slot",
+        "start": 36,
+        "end": 41,
+        "confidence_entity": 0.909972815621166,
+        "value": "phone",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "can i have the address of the phone number of the venue",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "slot",
+        "start": 30,
+        "end": 35,
+        "confidence_entity": 0.9105285246278885,
+        "value": "phone",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "i can have the address the phone number and the post code of the",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "slot",
+        "start": 27,
+        "end": 32,
+        "confidence_entity": 0.9099413739017417,
+        "value": "phone",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "whats the address and the phone number",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "slot",
+        "start": 26,
+        "end": 31,
+        "confidence_entity": 0.9099540716588351,
+        "value": "phone",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "type of food",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "value": "food",
+        "entity": "slot"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "can i have the type of food",
+    "entities": [
+      {
+        "start": 23,
+        "end": 27,
+        "value": "food",
+        "entity": "slot"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "and what type of food",
+    "entities": [
+      {
+        "start": 17,
+        "end": 21,
+        "value": "food",
+        "entity": "slot"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "its a type of food",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "value": "food",
+        "entity": "slot"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "and phone number please",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "value": "phone",
+        "entity": "slot"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "what is the type of food",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "value": "food",
+        "entity": "slot"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "and phone number",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "value": "phone",
+        "entity": "slot"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "no the north",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "area",
+        "start": 7,
+        "end": 12,
+        "confidence_entity": 0.5483471625917681,
+        "value": "north",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "no im looking for a unintelligible that serves english food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 47,
+        "end": 54,
+        "confidence_entity": 0.8201094956603345,
+        "value": "english",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "uh no im loo ah change it to british",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 29,
+        "end": 36,
+        "confidence_entity": 0.5192108829020019,
+        "value": "british",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "no im looking for gastropub food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 18,
+        "end": 27,
+        "confidence_entity": 0.7764089306643948,
+        "value": "gastropub",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "no im sorry it should be expensive",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 25,
+        "end": 34,
+        "confidence_entity": 0.572958823659516,
+        "value": "expensive",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "is there a restaurant serving italian food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 30,
+        "end": 37,
+        "confidence_entity": 0.581396929274991,
+        "value": "italian",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "how about a restaurant in the west part of town that serves vietnamese",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 60,
+        "end": 70,
+        "confidence_entity": 0.9229924777970052,
+        "value": "vietnamese",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "how about a place that serves portuguese food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 30,
+        "end": 40,
+        "confidence_entity": 0.7272396467591444,
+        "value": "portuguese",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "uh is there a restaurant that serves international food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 37,
+        "end": 50,
+        "confidence_entity": 0.8720999314949414,
+        "value": "international",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "how bout indian food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 9,
+        "end": 15,
+        "confidence_entity": 0.6274201480971481,
+        "value": "indian",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "is there anything serving international food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 26,
+        "end": 39,
+        "confidence_entity": 0.7989342701264333,
+        "value": "international",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "how about one with thai food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 19,
+        "end": 23,
+        "confidence_entity": 0.7925345272314431,
+        "value": "thai",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "how about a chinese restaurant",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 12,
+        "end": 19,
+        "confidence_entity": 0.6568384259480796,
+        "value": "chinese",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "is there a restaurant serving thai food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 30,
+        "end": 34,
+        "confidence_entity": 0.8127460443482125,
+        "value": "thai",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "are there any restaurant serving corsica food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 33,
+        "end": 40,
+        "confidence_entity": 0.6680126393232091,
+        "value": "corsica",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "how about a turkish restaurant",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 12,
+        "end": 19,
+        "confidence_entity": 0.9189214274608587,
+        "value": "turkish",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "how about one that serves portuguese food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 26,
+        "end": 36,
+        "confidence_entity": 0.7272396467584026,
+        "value": "portuguese",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "how about a korean restaurant",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 12,
+        "end": 18,
+        "confidence_entity": 0.6616684963919969,
+        "value": "korean",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "hi im looking for a place that serves scandinavian food",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "food",
+        "start": 38,
+        "end": 50,
+        "confidence_entity": 0.6479802555585122,
+        "value": "scandinavian",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "hello im looking for a cheap",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 23,
+        "end": 28,
+        "confidence_entity": 0.7096992308025192,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "hello im looking for a cheap restaurant in the west part of town",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "pricerange",
+        "start": 23,
+        "end": 28,
+        "confidence_entity": 0.6549786099546565,
+        "value": "cheap",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  }
+]

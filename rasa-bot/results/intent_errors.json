@@ -1,0 +1,290 @@
+[
+  {
+    "text": "what about vietnamese",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "reqalts",
+      "confidence": 0.7357221482839263
+    }
+  },
+  {
+    "text": "what about a restaurant that serves vietnamese",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "reqalts",
+      "confidence": 0.6873967041500562
+    }
+  },
+  {
+    "text": "what about other areas",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "reqalts",
+      "confidence": 0.7566229680122355
+    }
+  },
+  {
+    "text": "uh what about modern european",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "reqalts",
+      "confidence": 0.48877992899126615
+    }
+  },
+  {
+    "text": "how about gastro pub type of food",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "reqalts",
+      "confidence": 0.7687526649569326
+    }
+  },
+  {
+    "text": "what about international type food",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "reqalts",
+      "confidence": 0.6796151977416185
+    }
+  },
+  {
+    "text": "can you tell me about an expensive restaurant in the south",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "reqalts",
+      "confidence": 0.620668992964426
+    }
+  },
+  {
+    "text": "is there one with thai food",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "reqalts",
+      "confidence": 0.6816607440957405
+    }
+  },
+  {
+    "text": "just give me a cheap restaurant",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "reqalts",
+      "confidence": 0.6390393791272982
+    }
+  },
+  {
+    "text": "what is there in the north",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "reqalts",
+      "confidence": 0.5411078679522118
+    }
+  },
+  {
+    "text": "are there any turkish restaurants",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "reqalts",
+      "confidence": 0.4451056478070836
+    }
+  },
+  {
+    "text": "what about modern european food",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "reqalts",
+      "confidence": 0.5037790147671269
+    }
+  },
+  {
+    "text": "what about turkish",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "reqalts",
+      "confidence": 0.7377337848480349
+    }
+  },
+  {
+    "text": "it should serve moroccan food",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "confirm",
+      "confidence": 0.6781836836914301
+    }
+  },
+  {
+    "text": "um how about chinese food in the south part of town",
+    "intent": "reqalts",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.6206895235704152
+    }
+  },
+  {
+    "text": "uh is there any restaurant that serves indian food",
+    "intent": "reqalts",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.4835946509201165
+    }
+  },
+  {
+    "text": "is there a restaurant in the south part of town that serves indian food",
+    "intent": "reqalts",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.516402199794104
+    }
+  },
+  {
+    "text": "how about a restaurant in the west part of town that serves vietnamese",
+    "intent": "reqalts",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.5821339186593739
+    }
+  },
+  {
+    "text": "hi im looking for a place that serves scandinavian food",
+    "intent": "hello",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.8415173156772567
+    }
+  },
+  {
+    "text": "hi i am looking for a moderately priced restaurant in the east part of town",
+    "intent": "hello",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.8823656175840492
+    }
+  },
+  {
+    "text": "hi im looking for a restaurant in the",
+    "intent": "hello",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.7070846791111626
+    }
+  },
+  {
+    "text": "hello im looking for a cheap",
+    "intent": "hello",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.5207376040218684
+    }
+  },
+  {
+    "text": "hello im looking for a cheap restaurant in the west part of town",
+    "intent": "hello",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.8408614941686124
+    }
+  },
+  {
+    "text": "hi im looking for a restaurant in the east art of town",
+    "intent": "hello",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.8493647171509054
+    }
+  },
+  {
+    "text": "hi im looking for a restaurant",
+    "intent": "hello",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.5609155907776112
+    }
+  },
+  {
+    "text": "okay thank you and good bye",
+    "intent": "bye",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.47859666495040404
+    }
+  },
+  {
+    "text": "okay well thank you good bye",
+    "intent": "bye",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.4831226785872977
+    }
+  },
+  {
+    "text": "alright thank you good bye",
+    "intent": "bye",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.5365141752533424
+    }
+  },
+  {
+    "text": "great thank you goodbye",
+    "intent": "bye",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.5545354735903257
+    }
+  },
+  {
+    "text": "okay cool thank you good bye",
+    "intent": "bye",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.4750690586219521
+    }
+  },
+  {
+    "text": "k you goodbye",
+    "intent": "bye",
+    "intent_prediction": {
+      "name": "thankyou",
+      "confidence": 0.3532111229570093
+    }
+  },
+  {
+    "text": "i dont want vietnamese food",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.9927024538322315
+    }
+  },
+  {
+    "text": "no not indian scandinavian food",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "negate",
+      "confidence": 0.3803300708718311
+    }
+  },
+  {
+    "text": "okay and what about the address",
+    "intent": "ack",
+    "intent_prediction": {
+      "name": "request",
+      "confidence": 0.6404463038367164
+    }
+  },
+  {
+    "text": "have a good",
+    "intent": "ack",
+    "intent_prediction": {
+      "name": "request",
+      "confidence": 0.3869004638261893
+    }
+  },
+  {
+    "text": "start over",
+    "intent": "restart",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.23132155929362086
+    }
+  }
+]
