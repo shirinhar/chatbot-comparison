@@ -27,7 +27,7 @@ Runs online and does not need any commands to run.
 Before running the DeepPavlov server make sure to use python Python 3.7.5 and not higher as Rasa v2.0 cannot run on a newer version of Python.
 
 
-The code below shows how the bot was run using the SSL key and certificate used. The documentation used to host the bot on the Microsoft Web App Bot can be found at http://docs.deeppavlov.ai/en/master/integrations/ms_bot.html
+The code below shows how the bot was run using the SSL key and certificate used. The documentation used to host the bot on the Microsoft Web App Bot can be found at http://docs.deeppavlov.ai/en/master/integrations/ms_bot.html. The values given in the confiuration below will change depending on the configurations of the Microsoft Bot being used.
 
     python -m deeppavlov msbot config.json -i 789a812b-16ff-494f-9d17-2b9a91d3988d -s 8da~W.i6MW9NL6TL9v0hh8nZ-qZe~uko9- --key server.key --cert server.crt -d -p 5005
    
